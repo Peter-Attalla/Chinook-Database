@@ -1,4 +1,4 @@
-# Chinook-Database
+# feat: Chinook-Database
 # Who are the top three customers?
 Helena <br />
 Richard <br />
